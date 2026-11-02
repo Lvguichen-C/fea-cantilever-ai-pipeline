@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 归档与系统文件
+*.zip
+.DS_Store
+
+# 二进制云图（由 run_pipeline.py 重新生成，不入库）
+outputs/*.png
